@@ -1,2 +1,2 @@
 # np_inventory
-Newspaper Inventory for ODW Projects
+Pilot project for newspaper inventory to support open digitization projects.

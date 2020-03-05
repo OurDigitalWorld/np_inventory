@@ -55,7 +55,7 @@ _Source(s)_:
 |  | Queens University, Kingston, Douglas Library (OKQ) |  | mf 1861; |
 |  | University of Toronto (OTU) |  | mf 1861; |
 |  | Western University (OLU) |  | mf 1861,Oc19,26,Nol6 |
-| _Journal_ | Metropolitan Toronto Library (MC) | Newspapers - microforms area (NPF) | mf (1841,713(v.1,no.1) - 1844,Jl27; |
+| _Journal_ (_Gleaner_ predecessor) | Metropolitan Toronto Library (MC) | Newspapers - microforms area (NPF) | mf (1841,713(v.1,no.1) - 1844,Jl27; |
 |  | Hamilton Public Library (HPL) | Central Branch - Hamilton Room (CESH) | mf 1841,J13 — 1844,J127 |
 |  | Chatham Public Library (CP) |  | mf 1841,Jy3 - 1844,Jy27, |
 |  | Library & Archives Canada, Ottawa (OONL) |  | mf 1841,Jl3 - 1844,Jl27; |

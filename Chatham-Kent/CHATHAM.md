@@ -83,14 +83,14 @@ _Source(s)_:
 |  | Library & Archives Canada, Ottawa (OONL) |  | 1910,Ja12; 1920,My25 mf 1895,J11; 1896,My16; (1897,Ja6 - 1907; |
 |  | University of Toronto (OTU) |  | mf 1891,Del9 - 1902 |
 |  | Western University (OLU) |  | 1895,Je1(v.4,no.163),De18; 1895,De19; 1901,Fe4; 1915,Je8; 1918,Jl23; 1922,Fe25 mf 1891 - 1922 |
-| _Provincial freeman_ | Chatham Public Library (CP) |  | mf 1853,Mr24; 1854, Mr25 - 1857,Se20, |
+| _Provincial Freeman_ | Chatham Public Library (CP) |  | mf 1853,Mr24; 1854, Mr25 - 1857,Se20, |
 |  | Archives of Ontario, Toronto (OTAR) |  | mf 1853 - 1857; |
 |  | University of Toronto (OTU) |  | mf 1853 - 1857; |
 | _Tribune_ | Metropolitan Toronto Library (MC) | Newspapers (NP) | mf 1879,Je20(v.2, no.25) |
 |  | Library & Archives Canada, Ottawa (OONL) |  | mf 1879,Je20 |
 |  | University of Toronto (OTU) |  | mf 1879,]Je20 |
 |  | Western University (OLU) |  | 1880,Fe27(v.3,n0.8); 1882,Jl28,Se29 mf 1879,Je20 |
-| _Tri-weekly planet_ | Metropolitan Toronto Library (MC)| Newspapers - microforms area (NPF) | mf 1857,Fe6(v.1,no.98); 1873,Ja29; 1882,Myl; 1884 Je2 |
+| _Tri-weekly Planet_ | Metropolitan Toronto Library (MC)| Newspapers - microforms area (NPF) | mf 1857,Fe6(v.1,no.98); 1873,Ja29; 1882,Myl; 1884 Je2 |
 |  | Chatham Public Library (CP) |  | mf 1856,Oc22 - 1891,Del6; |
 |  | Archives of Ontario, Toronto (OTAR) |  | mf 1856 - 1875; |
 |  | University of Toronto (OTU) |  | 1856,Del5 mf 1856 - 18613; 1866,Del9; 1868,Fe26; 1873,Ja29,31,Fe3; 1875; 1882,Myl; 1884,Je2 |
@@ -116,7 +116,7 @@ _Source(s)_:
 |  | Hamilton Public Library (HPL) | Central Branch - Hamilton Room (CESH) | 1853,Jel3 - 1856,0c16; |
 |  | Chatham Public Library (CP) |  | mf 1853,Je13,0c24; 1854,Ja23-Ap17; 1854,My3-1856,Oc20 |
 |  | University of Western Ontario (OLU) |  | 1851 - 1852; mf 1851 - 1852,Ap27 |
-| _Western planet_ (semi-weekly) | Chatham Public Library (CP) |  | mf 1851,My6-1852,Ap27;1853,Je13,Oc24;1854-1856; |
+| _Western Planet_ (semi-weekly) | Chatham Public Library (CP) |  | mf 1851,My6-1852,Ap27;1853,Je13,Oc24;1854-1856; |
 |  | Archives of Ontario, Toronto (OTAR) |  | mf 1855 - 1856; |
 | _Western Sentinel_ | Metropolitan Toronto Library (MC) | Newspapers (NP) | mf 1847,Nol2(v.1, no.l) - 19 |
 |  | Chatham Public Library (CP) |  | mf 1847,No12-19. |

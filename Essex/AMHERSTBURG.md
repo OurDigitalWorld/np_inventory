@@ -8,7 +8,7 @@ _Source(s)_:
 | --- | --- | --- | --- |
 | _Courier_ | Metropolitan Toronto Library | Brentwood | 1850,No23(v.2, no.37). |
 |  | FM |  | 1849- 1850 |
-|  | Windsor Public Library (WP) |  | mf (1849, Mr - 1850,Fe9; |
+|  | Windsor Public Library (WP) |  | mf 1849, Mr - 1850,Fe9; |
 |  | Library & Archives Canada, Ottawa (OONL) |  | mf 1849, Mr10 - 1850,Fe9 |
 |  | Archives of Ontario, Toronto (OTAR) |  | 1851,Jl15 |
 |  | Hiram Walker Museum, Windsor (OWHWM) |  | 1850,Ag31 |

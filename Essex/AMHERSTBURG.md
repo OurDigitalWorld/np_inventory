@@ -8,12 +8,14 @@ _Source(s)_:
 | --- | --- | --- | --- |
 | _Courier_ | Metropolitan Toronto Library (MC) | Brentwood | 1850,No23(v.2, no.37) |
 |  | University of Windsor (OWA) |  | mf 1849,Ma10(v.1,no.1)-1850,Fe9(no.48) |
+|  | Fort Malden (FM) |  | 1849-1850 |
 |  | Windsor Public Library (WP) |  | mf 1849, Mr-1850,Fe9 |
 |  | Library & Archives Canada, Ottawa (OONL) |  | mf 1849, Mr10-1850,Fe9 |
 |  | Archives of Ontario, Toronto (OTAR) |  | 1851,Jl15 |
 |  | Hiram Walker Museum, Windsor (OWHWM) |  | 1850,Ag31 |
 | _Echo_ | Essex County Public Library (EC) |  | mf 1969,Ja-1984,De26 |
 |  | University of Windsor (OWA) |  | mf 1874,No20-1936,De25;1943,Ja7-1946,De26;Ja5,1950-1956,De27;1972,Ja5-1982,De29 |
+|  | Fort Malden (FM) |  | 1879-1885 |
 |  | Marsh Collection (MH) |  | mf 1874-2003 |
 |  | Windsor Public Library (WP) |  |  mf 1896-1918; 1935-1939; 1969-? |
 |  | Library & Archives Canada, Ottawa (OONL) |  | 1923,No23 |

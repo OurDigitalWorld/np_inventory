@@ -18,13 +18,14 @@ _Source(s)_:
 |  | University of Toronto (OTU) |  | mf 1866 - 1901 |
 | _Canadian Freeman_ | Metropolitan Toronto Library (MC) | Brentwood (BR) | 1848,Ja15(v.1, no.4), Fe5 |
 |  | Metropolitan Toronto Library (MC) | Newspapers (NP) | mf 1848,Se28(v.1, no.39) - 1848,De28 |
+|  | University of Windsor (OWA) |  | mf 1848,Se28 - 1848,De28 |
 |  | Chatham Public Library (CP) |  | mf 1848,Se28 - 1848,De28 |
 |  | Library & Archives Canada, Ottawa (OONL) |  | mf 1848,se28-1848,De28 |
 |  | Archives of Ontario, Toronto (OTAR) |  | mf 1848,Se28-De28; |
 | _Canadien, Le_ | Library & Archives Canada, Ottawa (OONL) |  | 1906,jn4 |
 | _Chronicle_ | Metropolitan Toronto Library (MC) | Newspapers (NP) | mf 1849,Jy17(v.1,no.l)-1850 |
-|  | Chatham Public Library (CP) |  | mf (1849,Jy17-1850,Ap |
-|  | University of Windsor (OWA) |  | mf (1849,Jy17-1850,Ap |
+|  | Chatham Public Library (CP) |  | mf 1849,Jy17-1850,Ap30 |
+|  | University of Windsor (OWA) |  | mf 1849,Jy17-1850,Ap30 |
 |  | Library & Archives Canada, Ottawa (OONL) |  | 1849,Jy17-1850,Ap30 |
 |  | University of Toronto (OTU) |  | mf 1849-1850 |
 | _Daily news_ | Metropolitan Toronto Library (MC) | Brentwood (BR) | 1950,De5 |
@@ -56,6 +57,7 @@ _Source(s)_:
 | _Journal_ (_Gleaner_ predecessor) | Metropolitan Toronto Library (MC) | Newspapers - microforms area (NPF) | mf 1841,Jy3(v.1,no.1)-1844,Jy27 |
 |  | Hamilton Public Library (HPL) | Central Branch - Hamilton Room (CESH) | mf 1841,Jy3—1844,Jy27 |
 |  | Chatham Public Library (CP) |  | mf 1841,Jy3-1844,Jy27 |
+|  | University of Windsor (OWA) |  | mf 1841,Jy3-1844,Jy27 |
 |  | Library & Archives Canada, Ottawa (OONL) |  | mf 1841,Jy3 - 1844,Jy27 |
 |  | Archives of Ontario, Toronto (OTAR) |  | 1841,Jy3-1844,Jy27 |
 |  | Queens University, Kingston, Douglas Library (OKQ) |  | mf 1841,Jy3-1844,Jy27 |
@@ -79,7 +81,8 @@ _Source(s)_:
 | _Planet_ | Metropolitan Toronto Library (MC) | Brentwood (BR) | 1904,(?) |
 |  | Metropolitan Toronto Library (MC) | Newspapers (NP) | mf 1895,Jy1(v.4,no.-); 1896,Myl6 |
 |  | Chatham Public Library (CP) |  | mf 1891,De19-1922,De29 |
-|  | Library & Archives Canada, Ottawa (OONL) |  | 1910,Ja12; 1920,My25 mf 1895,J11; 1896,My16; 1897,Ja6-1907 |
+|  | University of Windsor (OWA) |  | mf 1856,Oc22-1861,Je11 |
+|  | Library & Archives Canada, Ottawa (OONL) |  | 1910,Ja12; 1920,My25 mf 1895,Jy1; 1896,My16; 1897,Ja6-1907 |
 |  | University of Toronto (OTU) |  | mf 1891,De19-1902 |
 |  | Western University (OLU) |  | 1895,Je1(v.4,no.163),De18; 1895,De19; 1901,Fe4; 1915,Je8; 1918,Jy23; 1922,Fe25 mf 1891-1922 |
 | _Provincial Freeman_ | Chatham Public Library (CP) |  | mf 1853,Mr24; 1854,Mr25-1857,Se20 |
@@ -92,6 +95,7 @@ _Source(s)_:
 |  | Western University (OLU) |  | 1880,Fe27(v.3,no.8); 1882,Jy28,Se29 mf 1879,Je20 |
 | _Tri-weekly Planet_ | Metropolitan Toronto Library (MC)| Newspapers - microforms area (NPF) | mf 1857,Fe6(v.1,no.98); 1873,Ja29; 1882,Myl; 1884,Je2 |
 |  | Chatham Public Library (CP) |  | mf 1856,Oc22-1891,Del6 |
+|  | University of Windsor (OWA) |  | mf 1868,Fe26-1875,Jel4 |
 |  | Archives of Ontario, Toronto (OTAR) |  | mf 1856-1875 |
 |  | University of Toronto (OTU) |  | 1856,De15; mf 1856-1861; 1866,Del9; 1868,Fe26; 1873,Ja29,31,Fe3; 1875; 1882,Myl; 1884,Je2 |
 | _Warbler_ | MC | Newspapers - microforms area (NPF) | mf 1872,Se27(v.1,no.1) |
